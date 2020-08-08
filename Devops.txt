@@ -4,3 +4,10 @@ GitHub Link for Hello world Project : https://github.com/rahulshettyacademy/Devo
 
 Changes after cloning to verify i learnt git and github
 
+
+Basic Git Commands : https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+GitHub Link for Hello world Project : https://github.com/rahulshettyacademy/DevopsBasics
+
+Changes after cloning to verify i learnt git and github
+
